@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\bin\Debug\netcoreapp2.2\CollectionsPract.deps.json
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\bin\Debug\netcoreapp2.2\CollectionsPract.runtimeconfig.json
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\bin\Debug\netcoreapp2.2\CollectionsPract.runtimeconfig.dev.json
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\bin\Debug\netcoreapp2.2\CollectionsPract.dll
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\bin\Debug\netcoreapp2.2\CollectionsPract.pdb
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\obj\Debug\netcoreapp2.2\CollectionsPract.csprojAssemblyReference.cache
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\obj\Debug\netcoreapp2.2\CollectionsPract.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\obj\Debug\netcoreapp2.2\CollectionsPract.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\obj\Debug\netcoreapp2.2\CollectionsPract.AssemblyInfo.cs
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\obj\Debug\netcoreapp2.2\CollectionsPract.dll
+C:\Users\home\source\repos\CollectionsPract\CollectionsPract\obj\Debug\netcoreapp2.2\CollectionsPract.pdb
